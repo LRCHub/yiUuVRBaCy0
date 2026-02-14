@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "CAT'S EYE",
+  "base_artist": "杏里",
+  "createdAt": "2026-02-14T14:17:18.194164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "LONE",
+      "has_synced": false,
+      "path": "select/01_Cat's_Eye_LONE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/02_Cat's_Eye_杏里.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CAT'S EYE - (NEW TAKE)",
+      "artist": "anri",
+      "has_synced": true,
+      "path": "select/03_CAT'S_EYE_-_(NEW_TAKE)_anri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "Pascäal",
+      "has_synced": false,
+      "path": "select/04_Cat's_Eye_Pascäal.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cat's Eye Resurrection",
+      "artist": "White Zombie",
+      "has_synced": false,
+      "path": "select/05_Cat's_Eye_Resurrection_White_Zombie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cat’s Eye Resurrection",
+      "artist": "White Zombie",
+      "has_synced": false,
+      "path": "select/06_Cat’s_Eye_Resurrection_White_Zombie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cat's Eye, Apple Pie",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/07_Cat's_Eye,_Apple_Pie_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cat's Eye Apple Pie (B- Side to Shanghai'd in Shanghai)",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/08_Cat's_Eye_Apple_Pie_(B-_Side_to_Shanghai'd_in_Shanghai)_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cat's Eye Apple Pie (B- side)",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/09_Cat's_Eye_Apple_Pie_(B-_side)_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CAT'S EYE (NEW TAKE)",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/10_CAT'S_EYE_(NEW_TAKE)_杏里.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "Clock Opera",
+      "has_synced": false,
+      "path": "select/11_Cat's_Eye_Clock_Opera.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CAT’S EYE",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/12_CAT’S_EYE_Anri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "CAT’S EYE(ALBUM VERSION)",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/13_CAT’S_EYE(ALBUM_VERSION)_Anri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cat's Eye (Ventura mix)",
+      "artist": "E-Rotic",
+      "has_synced": true,
+      "path": "select/14_Cat's_Eye_(Ventura_mix)_E-Rotic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cat's Eye - Ventura Mix",
+      "artist": "E-Rotic",
+      "has_synced": true,
+      "path": "select/15_Cat's_Eye_-_Ventura_Mix_E-Rotic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cat's Eye/Yellow Fever (Running)",
+      "artist": "Van Der Graaf Generator",
+      "has_synced": false,
+      "path": "select/16_Cat's_Eye_Yellow_Fever_(Running)_Van_Der_Graaf_Generator.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "ASTRO",
+      "has_synced": true,
+      "path": "select/17_Cat's_Eye_ASTRO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cat's Eye / Yellow Fever (Running)",
+      "artist": "Van Der Graaf",
+      "has_synced": false,
+      "path": "select/18_Cat's_Eye___Yellow_Fever_(Running)_Van_Der_Graaf.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cat’s Eye Blue",
+      "artist": "Hiss Golden Messenger",
+      "has_synced": false,
+      "path": "select/19_Cat’s_Eye_Blue_Hiss_Golden_Messenger.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Trace of a Cat's Eye",
+      "artist": "Matt Nathanson",
+      "has_synced": true,
+      "path": "select/20_Trace_of_a_Cat's_Eye_Matt_Nathanson.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Daisies, Cats and Spacemen (feat. Roya Arab)",
+      "artist": "Leila",
+      "has_synced": false,
+      "path": "select/21_Daisies,_Cats_and_Spacemen_(feat._Roya_Arab)_Leila.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Daisies, Cats And Spacemen",
+      "artist": "Leila",
+      "has_synced": false,
+      "path": "select/22_Daisies,_Cats_And_Spacemen_Leila.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cats Van Bags",
+      "artist": "Atmosphere",
+      "has_synced": true,
+      "path": "select/23_Cats_Van_Bags_Atmosphere.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Cats Van Bags (feat. Brother Ali)",
+      "artist": "Atmosphere",
+      "has_synced": true,
+      "path": "select/24_Cats_Van_Bags_(feat._Brother_Ali)_Atmosphere.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "All Cats Are Grey",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/25_All_Cats_Are_Grey_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "All Cats Are Grey",
+      "artist": "Nouvelle Vague, Mélanie Pain",
+      "has_synced": true,
+      "path": "select/26_All_Cats_Are_Grey_Nouvelle_Vague,_Mélanie_Pain.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Love Cats",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/27_The_Love_Cats_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "All Cats Are Grey",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/28_All_Cats_Are_Grey_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Cat's Squirrel",
+      "artist": "Cream",
+      "has_synced": false,
+      "path": "select/29_Cat's_Squirrel_Cream.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Cat's Squirrel",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/30_Cat's_Squirrel_Cream.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "My Cat's Name Is Maceo - Demo",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/31_My_Cat's_Name_Is_Maceo_-_Demo_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Love Cats",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/32_Love_Cats_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Love Cats",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/33_The_Love_Cats_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Belfast (Penguins and Cats)",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/34_Belfast_(Penguins_and_Cats)_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Buttload Of Cats",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": true,
+      "path": "select/35_Buttload_Of_Cats_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CAT'S EYE",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_CAT'S_EYE_杏里.txt"
+    }
+  ]
+}
